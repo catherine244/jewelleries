@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url("https://bit.ly/2MYtIUD");
+    font-family: "Lato";
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+input{
+  border-radius: 50px;
+}
+  ul{
+    
+     list-style-type: none;
+     margin:-0.005px;
+     padding:0.005px;
+    overflow: hidden;
+    font-size: 40px;
+    position: fixed;
+     font-weight: bold;
+     color: black;
+  
+  }
+  
+  li{
+    float:left;
+    padding-right: 30px;
+    margin:10px;
+    color: black;
+    
+  }
+  li a{
+   
+    display:block;
+    color:white;
+    
+    text-decoration:none;
+    padding:14px 16px;
+  }
+  li a:hover {
+    background-color:black;
+      }
+
+      h1 {
+          color:white;
+          text-align:center;
+          font-size: 70px;
+          padding:200px;
+          font-family: 'Libre Baskerville', serif;
+          
+      }
+.container {
+  height:700px;
+  margin: 0px;
+}
+footer{
+  font-size: 35px;
+  color:green;
+  text-align: center;
+}
